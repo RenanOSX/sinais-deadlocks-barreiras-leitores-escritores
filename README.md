@@ -1,0 +1,1 @@
+# sinais-deadlocks-barreiras-leitores-escritores
